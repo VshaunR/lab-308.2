@@ -69,7 +69,7 @@ This condition should be met if the plant count after the given number of weeks 
 // gardenGrowth(5,1,20)
 // gardenGrowth(5,2,20)
 // gardenGrowth(5,3,20)
-
+/// defunct code above
 
 
 
